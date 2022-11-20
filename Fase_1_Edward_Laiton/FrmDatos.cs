@@ -35,24 +35,24 @@ namespace Fase_1_Edward_Laiton
         {
             if (cbmCargo.Text == "Servicios Generales")
             {
-                txtSalarioDia.Text = "40000";
+                txtSalarioDia.Text = "4000";
 
             }
             else if (cbmCargo.Text == "Administrativo")
             {
-                txtSalarioDia.Text = "50000";
+                txtSalarioDia.Text = "5000";
             }
             else if (cbmCargo.Text == "Electricista")
             {
-                txtSalarioDia.Text = "60000";
+                txtSalarioDia.Text = "6000";
             }
             else if (cbmCargo.Text == "Mecanico")
             {
-                txtSalarioDia.Text = "65000";
+                txtSalarioDia.Text = "6500";
             }
             else if (cbmCargo.Text == "Soldador")
             {
-                txtSalarioDia.Text = "700000";
+                txtSalarioDia.Text = "7000";
             }
         }
 
